@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="360" height="480">
+<img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="480" height="480">
 
 Here is **Kan Huang**. (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
