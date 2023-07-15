@@ -35,17 +35,17 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: 
+    url: /
   - title: Publications
     url: /publications/
   - title: Projects
-    url: 
+    url: /
   - title: Awards
-    url: 
+    url: /
   - title: Hobbies
-    url: 
+    url: /
   - title: Blogs
-    url: /blogs/
+    url: 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
