@@ -8,7 +8,7 @@ layout: page
 
 Here is **Kan Huang**.
 
-I am a Leturer in School of Information Enginerring at Shanghai Maritime University, Shanghai, China. 
+I am a Leturer in School of Information Engineering at Shanghai Maritime University, Shanghai, China. 
 
 <br>
 
