@@ -24,8 +24,6 @@ I am a Leturer in School of Information Enginerring at Shanghai Maritime Univers
 
 ## Working Experiences
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
-
 - **Sep 2017 - June 2020:** Peking University (PostDoctoral Researcher)
 - **Sep 2020 - Now:** Shanghai Maritime University (Leturer)
 - **Oct 2022 - July 2023:** Tsinghua University (Visiting Scholar)
