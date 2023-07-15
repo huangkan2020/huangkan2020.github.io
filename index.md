@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="360" height="480">
 
-Here is **Kan Huang (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Kan Huang**. (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a Leturer in School of Information Enginerring at Shanghai Maritime University, Shanghai, China. 
 
 <br>
 
