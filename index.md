@@ -34,11 +34,12 @@ I am a Leturer in School of Information Engineering at Shanghai Maritime Univers
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Computer Vision and Pattern Recognition
+- Remote Sensing Image Analysis
+- Saliency Detection
+- 3D Vision 
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Computer Vision** and **Intelligent Systems**.
 
 <br>
 
@@ -46,12 +47,6 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **June 2023：**A paper has been accepted by IJRS.
 
 <br>
