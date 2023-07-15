@@ -15,7 +15,7 @@ owner:
   # facebook: caihanlin2002
   github: GuangLun2000
   linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  scholar: 
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -37,7 +37,7 @@ links:
   - title: Resume
     url: /
   - title: Publications
-    url: /publications/
+    url: /
   - title: Projects
     url: /
   - title: Awards
@@ -45,7 +45,7 @@ links:
   - title: Hobbies
     url: /
   - title: Blogs
-    url: 
+    url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
