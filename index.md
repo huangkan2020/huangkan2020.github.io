@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="600" height="480">
 
-Here is **Kan Huang**. (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Kan Huang**.
 
 I am a Leturer in School of Information Enginerring at Shanghai Maritime University, Shanghai, China. 
 
