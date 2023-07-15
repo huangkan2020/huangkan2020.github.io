@@ -14,6 +14,16 @@ I am a Leturer in School of Information Enginerring at Shanghai Maritime Univers
 
 ## Academic Background
 
+- **Sep 2007 - June 2011:** East China Normal University (BEng)
+- **Sep 2012 - May 2017:** University of Chinese Acameday of Sciences (PhD)
+- **Oct 2015 - Oct 2016:** Nanyang Technological University, Singapore (Visiting Student)
+
+<br>
+
+---
+
+## Working Experiences
+
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
 - **Sep 2020 - June 2024:** Fuzhou University (BEng)
