@@ -26,9 +26,9 @@ I am a Leturer in School of Information Enginerring at Shanghai Maritime Univers
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Sep 2017 - June 2020:** Peking University (PostDoctoral Researcher)
+- **Sep 2020 - Now:** Shanghai Maritime University (Leturer)
+- **Oct 2022 - July 2023:** Tsinghua University (Visiting Scholar)
 
 <br>
 
