@@ -6,25 +6,20 @@ title: Publications
 
 # Publications
 
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+- K. Huang, C. Tian, J. Su, J. Lin. Transformer-based cross reference network for video salient object detection. Pattern Recognition Letters, 160: 122-127, 2022.
+- K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. Expert Systems with Applications, 235: 120739, 2023.
+- K. Huang, C. Tian, C. Lin. Progressive Context-guided Dynamic Network for Salient Object Detection in Optical Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing. 2023, In Press.
+- K. Huang, C. Tian, G. Li. Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images. International Journal of Remote Sensing, 44(13): 4016-4033, 2023.
+- K. Huang, Z. Xu. Lightweight Video Salient Object Detection via Channel-shuffle enhanced Multi-modal Fusion Network. Multimedia Tools and Applications, 023, 2023. 
+- Z. Xu, J. Huang, K. Huang. A novel computer vision-based approach for monitoring safety harness use in construction. IET Image Processing, 17(4): 1071-1085, 2023.
+- X. Liu, Z. Xu, K. Huang. Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion. Computational Intelligence and Neuroscience, 9645611, 2023. 
+- Z. Xu, R. Gao, K. Huang, Q. Xu. Triangle Distance IoU Loss, Attention-Weighted Feature Pyramid Network, and Rotated-SARShip Dataset for Arbitrary-Oriented SAR Ship Detection. Remote Sensing, 14(18): 4676, 2022.
+- K. Huang, G. Li, S. Liu. Learning Channel-wise Spatio-temporal Represnetations for Video Salient Object Detection. Neurocomputing, 403: 325-336, 2020.
+- C. Zhu, X. Cai, K. Huang, G. Li. PDNet: Prior Guided Depth-enhanced Network for Salient Object Detection. IEEE International Conference on Multimedia and Expo (ICME), 2019. (Oral, Citation: 155)
+- K. Huang, C. Zhu, G. Li. Saliency detection by adaptive channel fusion. IEEE Signal Processing Letters, 7(25): 1059-1063, 2018.
+- K. Huang, C. Zhu, G. Li. Robust saliency detection via fusing foreground and background priors. IEEE International Conference on Image Processing (ICIP), 2018. 
 
-## Undergrad Thesis
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
-
-## Conference Paper
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
 ---
 
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
-## Working Manuscript
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
 
