@@ -25,7 +25,7 @@ I am a Leturer in School of Information Engineering at Shanghai Maritime Univers
 ## Working Experiences
 
 - **Sep 2017 - June 2020:** Peking University (PostDoctoral Researcher)
-- **Oct 2018 - June 2020:** PengCheng Laboratory (Intern PostDoctoral Researcher)
+- **Oct 2018 - June 2020:** PengCheng Laboratory (Intern Researcher)
 - **Sep 2020 - Now:** Shanghai Maritime University (Leturer)
 - **Oct 2022 - July 2023:** Tsinghua University (Visiting Scholar)
 
