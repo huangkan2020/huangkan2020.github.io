@@ -28,7 +28,7 @@ E-mail: huangkan@shmtu.edu.cm
 ### Academic Background
 
 - **Sep 2007 - June 2011:** East China Normal University (BEng)
-- **Sep 2012 - May 2017:** University of Chinese Acameday of Sciences (PhD)
+- **Sep 2012 - July 2017:** University of Chinese Acameday of Sciences (PhD)
 - **Oct 2015 - Oct 2016:** Nanyang Technological University, Singapore (Joint PhD Student)
 
 <br>
