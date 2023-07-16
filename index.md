@@ -38,8 +38,6 @@ layout: page
 - Saliency Detection
 - 3D Vision 
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Computer Vision** and **Intelligent Systems**.
-
 <br>
 
 ---
