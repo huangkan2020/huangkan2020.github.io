@@ -51,6 +51,6 @@ E-mail: huangkan@shmtu.edu.cm
 ## News and Updates
 
 - **April 2023：**A paper has been accepted by MTAP.
-- **June 2023：**A paper has been accepted by IJRS.
+- **June 2023：**A paper has been accepted by ESA.
 
 <br>
