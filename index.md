@@ -10,7 +10,18 @@ layout: page
 
 <br>
 
-## Academic Background
+### Research Interests
+
+- Computer Vision and Pattern Recognition
+- Remote Sensing Image Analysis
+- Saliency Detection
+- 3D Vision 
+
+<br>
+
+---
+
+### Academic Background
 
 - **Sep 2007 - June 2011:** East China Normal University (BEng)
 - **Sep 2012 - May 2017:** University of Chinese Acameday of Sciences (PhD)
@@ -20,7 +31,7 @@ layout: page
 
 ---
 
-## Working Experiences
+### Working Experiences
 
 - **Sep 2017 - June 2020:** Peking University (PostDoctoral Researcher)
 - **Oct 2018 - June 2020:** PengCheng Laboratory (Intern Researcher)
@@ -31,16 +42,7 @@ layout: page
 
 ---
 
-## Research Interests
 
-- Computer Vision and Pattern Recognition
-- Remote Sensing Image Analysis
-- Saliency Detection
-- 3D Vision 
-
-<br>
-
----
 
 ## News and Updates
 
