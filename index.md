@@ -16,7 +16,7 @@ E-mail: huangkan@shmtu.edu.cm
 
 ### Research Interests
 
-- Computer Vision and Pattern Recognition
+- Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
 - Saliency Detection
 - 3D Vision 
