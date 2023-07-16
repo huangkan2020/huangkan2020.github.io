@@ -51,6 +51,7 @@ E-mail: huangkan@shmtu.edu.cm
 ## News and Updates
 
 - **April 2023：**A paper has been accepted by MTAP.
+- **June 2023：**Master students attended VALSE 2023.
 - **June 2023：**A paper has been accepted by ESA.
 
 <br>
