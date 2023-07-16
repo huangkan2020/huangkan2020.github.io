@@ -8,6 +8,10 @@ layout: page
 
 **Kan Huang** is currently a Leturer in School of Information Engineering at Shanghai Maritime University, Shanghai, China. 
 
+I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
+
+E-mail: huangkan@shmtu.edu.cm
+
 <br>
 
 ### Research Interests
