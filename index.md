@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="600" height="480">
 
-
+<br/>
 
 **Kan Huang** is currently a Leturer in School of Information Engineering at Shanghai Maritime University, Shanghai, China. 
 
