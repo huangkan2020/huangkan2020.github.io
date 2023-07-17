@@ -8,7 +8,7 @@ layout: page
 
 <br/>
 
-**Kan Huang** is currently a Leturer in School of Information Engineering at Shanghai Maritime University, Shanghai, China. 
+**Kan Huang** is currently a Leturer in <font color='red'> School of Information Engineering at Shanghai Maritime University, Shanghai, China </font>. 
 
 I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
 
