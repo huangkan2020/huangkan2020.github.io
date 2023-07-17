@@ -21,7 +21,9 @@ E-mail: *huangkan@shmtu.edu.cn*
 - Remote Sensing Image Analysis
 - Saliency Detection
 - 3D Vision 
-<br/>
+
+<br>
+
 ---
 
 ### Academic Background
