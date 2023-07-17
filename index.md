@@ -12,7 +12,7 @@ layout: page
 
 I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
 
-E-mail: huangkan@shmtu.edu.cm
+E-mail: *huangkan@shmtu.edu.cn*
 
 <br>
 
