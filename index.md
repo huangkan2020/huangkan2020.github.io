@@ -20,7 +20,7 @@ E-mail: *huangkan@shmtu.edu.cn*
 - Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
 - Saliency Detection
-- 3D Vision 
+- 3D Scene Understanding 
 
 <br>
 
