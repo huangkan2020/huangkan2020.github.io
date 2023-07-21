@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me
+## Basic Info
 
 <!-- <img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="600" height="480"> -->
 
