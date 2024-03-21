@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Recent Publications
+## Recent Publications
 
 <font size="3">
 
