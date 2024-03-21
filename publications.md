@@ -6,7 +6,7 @@ title: Publications
 
 ### Recent Publications
 
-<font size="2">这是大小为5的文字。</font>
+<font size="2">这是大小为5的文字。
 
 - K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
@@ -28,7 +28,7 @@ title: Publications
 
 - Z. Xu, R. Gao, K. Huang, Q. Xu. Triangle Distance IoU Loss, Attention-Weighted Feature Pyramid Network, and Rotated-SARShip Dataset for Arbitrary-Oriented SAR Ship Detection. *Remote Sensing*, 14(18): 4676, 2022.
 
-
+</font>
 
 <!--
 - K. Huang, G. Li, S. Liu. Learning Channel-wise Spatio-temporal Represnetations for Video Salient Object Detection. Neurocomputing, 403: 325-336, 2020.
