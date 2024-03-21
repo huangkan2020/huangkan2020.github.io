@@ -6,7 +6,7 @@ title: Publications
 
 ### Recent Publications
 
-<font size="3">
+
 
 - K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. *Expert Systems with Applications*, 235: 120739, 2023.
 
