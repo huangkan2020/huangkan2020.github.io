@@ -15,7 +15,7 @@ Research Group is recruiting master students every year. Welcome to contact if y
 E-mail: *huangkan@shmtu.edu.cn*
 <br/>
 
-### Research Fields
+#### Research Fields
 
 - Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
@@ -30,7 +30,7 @@ E-mail: *huangkan@shmtu.edu.cn*
 
 
 
-## News and Updates
+### News and Updates
 
 - **April 2023：**A paper has been accepted by MTAP.
 - **June 2023：**A master student attended VALSE 2023.
