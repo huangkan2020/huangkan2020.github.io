@@ -9,11 +9,11 @@ title: Publications
 
 - <font size="3">K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2024.</font>
 
-- L. Luo, N. Li, K. Huang*. DenseReg: Point Cloud Registration Based on Dense Feature Refinement. International Conference on Computer Vision, Graphics, and Image Processing, 2024.
+- <font size="3">L. Luo, N. Li, K. Huang*. DenseReg: Point Cloud Registration Based on Dense Feature Refinement. <i> International Conference on Computer Vision, Graphics, and Image Processing</i>, 2024.</font>
 
-- K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. *Expert Systems with Applications*, 235: 120739, 2023.
+- <font size="3">K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. <i>Expert Systems with Applications</i>, 235: 120739, 2023.</font>
 
-- K. Huang, C. Tian, C. Lin. Progressive Context-guided Dynamic Network for Salient Object Detection in Optical Remote Sensing Images. *IEEE Transactions on Geoscience and Remote Sensing*. 2023, 61: 1-16.
+- <font size="3">K. Huang, C. Tian, C. Lin. Progressive Context-guided Dynamic Network for Salient Object Detection in Optical Remote Sensing Images. <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 2023, 61: 1-16.</font>
 
 - K. Huang, C. Tian, G. Li. Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images. *International Journal of Remote Sensing*, 44(13): 4016-4033, 2023.
 
