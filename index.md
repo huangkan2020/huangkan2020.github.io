@@ -8,7 +8,7 @@ layout: page
 
 <br/>
 
-**Kan Huang** is currently a Leturer in *School of Information Engineering at Shanghai Maritime University, Shanghai, China*. He received the B.S. degree from East China Normal University, Shanghai, China, in 2011, and received his Ph.D degree from the University of Chinese Academy of Sciences, Beijing, China, in 2017. 
+**Kan Huang** is currently a Leturer in *School of Information Engineering at Shanghai Maritime University, Shanghai, China*. He received the B.S. degree from East China Normal University, Shanghai, China, in 2011, and received his Ph.D degree from the University of Chinese Academy of Sciences, Beijing, China, in 2017. He has also been a visiting student at Nanyang Technological University, Singapore, a postdoctoral researcher at Peking University, China, and a visiting scholar at Tsinghua University, China.
 
 I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
 
@@ -19,27 +19,10 @@ E-mail: *huangkan@shmtu.edu.cn*
 
 - Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
-- Saliency Detection
-- 3D Scene Understanding 
+- Saliency Modeling (Salient Object Detection, Eye fixation Prediction, etc.)
+- 3D Vision (Registration, Segmentation, etc.)
+- Large Vision Models
 
-<br>
-
----
-
-### Academic Background
-
-- **Sep 2007 - June 2011:** East China Normal University (BEng)
-- **Sep 2012 - July 2017:** University of Chinese Acameday of Sciences (PhD)
-- **Oct 2015 - Oct 2016:** Nanyang Technological University, Singapore (Joint PhD Student)
-
----
-
-### Working Experiences
-
-- **Sep 2017 - June 2020:** Peking University (PostDoctoral Researcher)
-- **Oct 2018 - Aug 2020:** PengCheng Laboratory (Intern Researcher)
-- **Sep 2020 - Now:** Shanghai Maritime University (Leturer)
-- **Oct 2022 - July 2023:** Tsinghua University (Visiting Scholar)
 
 <br>
 
