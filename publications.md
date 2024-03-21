@@ -6,6 +6,8 @@ title: Publications
 
 ### Recent Publications
 
+<font size="2">这是大小为5的文字。</font>
+
 - K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
 - L. Luo, N. Li, K. Huang*. DenseReg: Point Cloud Registration Based on Dense Feature Refinement. International Conference on Computer Vision, Graphics, and Image Processing, 2024.
