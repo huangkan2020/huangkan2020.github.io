@@ -9,9 +9,9 @@ title: Publications
 <font size="3">
 
 - K. Huang, C. Tian, Z. Xu, N. Li, J. Lin. Motion Context Guided Edge-preserving Network for Video Salient Object Detection. *Expert Systems with Applications*, 235: 120739, 2023.
-- 
+
 - K. Huang, C. Tian, C. Lin. Progressive Context-guided Dynamic Network for Salient Object Detection in Optical Remote Sensing Images. *IEEE Transactions on Geoscience and Remote Sensing*. 2023, In Press.
-- 
+
 - K. Huang, C. Tian, G. Li. Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images. *International Journal of Remote Sensing*, 44(13): 4016-4033, 2023.
 - K. Huang, Z. Xu. Lightweight Video Salient Object Detection via Channel-shuffle enhanced Multi-modal Fusion Network. *Multimedia Tools and Applications*, 023, 2023. 
 - Z. Xu, J. Huang, K. Huang. A novel computer vision-based approach for monitoring safety harness use in construction. *IET Image Processing*, 17(4): 1071-1085, 2023.
