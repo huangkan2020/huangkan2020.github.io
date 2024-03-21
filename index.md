@@ -10,7 +10,7 @@ layout: page
 
 **Kan Huang** is currently a Leturer in *School of Information Engineering at Shanghai Maritime University, Shanghai, China*. He received the B.S. degree from East China Normal University, Shanghai, China, in 2011, and received his Ph.D degree from the University of Chinese Academy of Sciences, Beijing, China, in 2017. He has also been a visiting student at Nanyang Technological University, Singapore, a postdoctoral researcher at Peking University, China, and a visiting scholar at Tsinghua University, China.
 
-I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
+Research Group is recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
 
 E-mail: *huangkan@shmtu.edu.cn*
 <br/>
