@@ -21,7 +21,7 @@ E-mail: *huangkan@shmtu.edu.cn*
 - Remote Sensing Image Analysis
 - Saliency Modeling (Salient Object Detection, Eye fixation Prediction, etc.)
 - 3D Vision (Registration, Segmentation, etc.)
-- Large Vision Models
+- Large Vision (Language) Models
 
 
 <br>
