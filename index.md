@@ -2,13 +2,13 @@
 layout: page
 ---
 
-## Basic Info
+## Biography
 
 <!-- <img src="https://huangkan2020.github.io/huangkan_greece.jpg" class="floatpic" width="600" height="480"> -->
 
 <br/>
 
-**Kan Huang** is currently a Leturer in *School of Information Engineering at Shanghai Maritime University, Shanghai, China*. 
+**Kan Huang** is currently a Leturer in *School of Information Engineering at Shanghai Maritime University, Shanghai, China*. He received the B.S. degree from East China Normal University, Shanghai, China, in 2011, and received his Ph.D degree from the University of Chinese Academy of Sciences, Beijing, China, in 2017. 
 
 I am recruiting master students every year. Welcome to contact me if you have strong interest in my research fields.
 
