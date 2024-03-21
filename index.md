@@ -35,7 +35,6 @@ E-mail: *huangkan@shmtu.edu.cn*
 - **April 2023：**A paper has been accepted by MTAP.
 - **June 2023：**A master student attended VALSE 2023.
 - **June 2023：**A paper has been accepted by IJRS.
-- **July 2023：**Finished Visiting Scholar Program in Tsinghua Univ.
 - **January 2024：**A paper has been accepted by CVGIP 2024.
 - **March 2024：**A paper has been accepted by TGRS.
 
