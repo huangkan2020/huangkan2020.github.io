@@ -15,7 +15,7 @@ Research Group is recruiting master students every year. Welcome to contact if y
 E-mail: *huangkan@shmtu.edu.cn*
 <br/>
 
-### Research Interests
+### Research Fields
 
 - Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
