@@ -37,6 +37,8 @@ E-mail: *huangkan@shmtu.edu.cn*
 - **June 2023：**A paper has been accepted by IJRS.
 - **July 2023：**Finished Visiting Scholar Program in Tsinghua Univ.
 - **July 2023：**Finished Visiting Scholar Program in Tsinghua Univ.
+- **July 2023：**A paper has been accepted by CVGIP 2024.
+- **July 2023：**A paper has been accepted by TGRS.
 - **January 2024: **A paper has been accepted by CVGIP 2024.
 - **March 2024: **A paper has been accepted by TGRS.
 
