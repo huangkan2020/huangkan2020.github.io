@@ -24,8 +24,9 @@ E-mail: *huangkan@shmtu.edu.cn*
 - Large Vision (Language) Models
 
 ### Services
-- Reviewers for Journals: TGRS, TFS, TCYB, Neural Networks, JSTAR, The Visual Computer, etc.
-- Reviewers for Conferences: ICASSP, ICME, etc.
+- Reviewers for International Journals: TGRS, TNNLS, TFS, TCYB, Neural Networks, Signal Processing, JSTAR, GRSL, IEEE Access, The Visual Computer, IJIG, etc.
+- Reviewers for International Conferences: ICASSP, ICME, etc.
+- Reviewers for Chinese Journals:  计算机工程与应用， 计算机科学与探索.
 
 <br>
 
