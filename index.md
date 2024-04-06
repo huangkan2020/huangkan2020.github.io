@@ -23,6 +23,9 @@ E-mail: *huangkan@shmtu.edu.cn*
 - 3D Vision (Registration, Segmentation, etc.)
 - Large Vision (Language) Models
 
+### Services
+- Reviewers for Journals: TGRS, TFS, TCYB, Neural Networks, JSTAR, The Visual Computer, etc.
+- Reviewers for Conferences: ICASSP, ICME, etc.
 
 <br>
 
