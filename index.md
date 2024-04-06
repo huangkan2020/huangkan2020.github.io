@@ -25,7 +25,7 @@ E-mail: *huangkan@shmtu.edu.cn*
 
 ### Services
 - Reviewers for International Journals: TGRS, TNNLS, TFS, TCYB, Neural Networks, Signal Processing, JSTAR, GRSL, IEEE Access, The Visual Computer, IJIG, etc.
-- Reviewers for International Conferences: ICASSP, ICME, etc.
+- Reviewers for International Conferences: ICASSP, ICME, BIBE, AIIPCC, etc.
 - Reviewers for Chinese Journals:  计算机工程与应用， 计算机科学与探索.
 
 <br>
