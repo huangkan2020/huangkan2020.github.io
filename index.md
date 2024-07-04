@@ -41,6 +41,7 @@ E-mail: *huangkan@shmtu.edu.cn*
 - **June 2023：**A paper has been accepted by IJRS.
 - **January 2024：**A paper has been accepted by CVGIP 2024.
 - **March 2024：**A paper has been accepted by TGRS.
+- **July 2024: **A paper has been accepted by Applied Intelligence.
 
 
 <br>
