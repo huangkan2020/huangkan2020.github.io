@@ -6,6 +6,8 @@ title: Publications
 
 ### Recent Publications
 
+- <font size="3">J. Huang, K. Huang*. Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images. <i>IEEE Geoscience and Remote Sensing Letters</i>, 2024.</font>
+
 - <font size="3">N. Li, K. Huang*, Q. Wu, Y. Zhao. Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition. <i>Applied Intelligence</i>, 2024.</font>
 
 - <font size="3">Z. Xu, C. Wang, K. Huang. BiF-DETR: Remote sensing object detection based on Bidirectional information fusion. <i>Displays</i>, 2024.</font>
