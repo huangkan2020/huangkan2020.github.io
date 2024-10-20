@@ -19,9 +19,9 @@ E-mail: *huangkan@shmtu.edu.cn*
 
 - Pattern Recognition and Computer Vision
 - Remote Sensing Image Analysis
-- Saliency Modeling (Salient Object Detection, Eye fixation Prediction, etc.)
+- Saliency Detection
 - 3D Vision (Registration, Segmentation, etc.)
-- Large Vision (Language) Models
+- Maritime Vision Analysis
 
 ### Services
 - Reviewers for International Journals: TGRS, TNNLS, TFS, TCYB, Neural Networks, Signal Processing, JSTAR, GRSL, IEEE Access, The Visual Computer, IJIG, etc.
@@ -42,6 +42,6 @@ E-mail: *huangkan@shmtu.edu.cn*
 - **January 2024：**A paper has been accepted by CVGIP 2024.
 - **March 2024：**A paper has been accepted by TGRS.
 - **June 2024：**A paper has been accepted by Applied Intelligence.
-
+- **Oct 2024：**A paper has been accepted by GRSL.
 
 <br>
