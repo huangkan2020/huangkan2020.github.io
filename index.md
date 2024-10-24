@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Kan Huang is currently a Leturer in School of Information Engineering at Shanghai Maritime University, Shanghai, China. He received the B.S. degree from East China Normal University, Shanghai, China, in 2011, and received his Ph.D degree from the University of Chinese Academy of Sciences, Beijing, China, in 2017. He has also been a visiting student at Nanyang Technological University, Singapore, a postdoctoral researcher at Peking University, China, and a visiting scholar at Tsinghua University, China.
 
 ## Research Interests
 
