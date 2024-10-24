@@ -8,7 +8,7 @@ main:
     code: 
     bibtex: 
     image: 
-    notes: Early Accept
+    notes: Early Access
 
   - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
     authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao
