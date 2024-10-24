@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images
     authors: J. Huang, <strong>Kan Huang*</strong> (*Corresponding authors)
     conference_short: GRSL
     conference: IEEE Geoscience and Remote Sensing Letters <strong>(GRSL)</strong>, 2024.
     pdf: 
     code: 
     bibtex: 
-    image: ./assets/img/teaser_example_2.png
+    image: 
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
+    authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao
+    conference_short: Applied Intelligence
+    conference: Applied Intelligence, 2020.
+    pdf: 
+    code:
+    page: 
+    bibtex: 
+    notes: 
+    image: 
