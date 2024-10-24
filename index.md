@@ -8,15 +8,16 @@ Kan Huang is currently a Leturer in School of Information Engineering at Shangha
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Pattern Recognition and Computer Vision:** Remote Sensing Image Analysis, Saliency Detection, 3D vision, Maritime Vision
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** One paper has been accepted by IEEE Geosciece and Remote Sensing Letters.
+- **[June. 2024]** One paper has been accepted by Applied Intelligence.
+- **[March. 2024]** One paper has been accepted by IEEE Trans. on Geoscience and Remote Sensing.
+- **[Jan. 2024]** One paper has been accepted by CVGIP 2024.
+- **[June. 2023]** One paper has been accepted by International Journal of Remote Sensing.
+- **[Jan. 2024]** One paper has been accepted by Multimedia Tools and Applications.
 
 {% include_relative _includes/publications.md %}
 
