@@ -13,7 +13,7 @@ main:
   - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
     authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao
     conference_short: Applied Intelligence
-    conference: Applied Intelligence, 2020.
+    conference: Applied Intelligence, 2024.
     pdf: 
     code:
     page: 
@@ -22,9 +22,9 @@ main:
     image: 
 
   - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
-    authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao
-    conference_short: Applied Intelligence
-    conference: Applied Intelligence, 2020.
+    authors: <strong>Kan Huang*</strong>, N. Li, J. Huang, C. Tian
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, 2024.
     pdf: 
     code:
     page: 
