@@ -20,3 +20,15 @@ main:
     bibtex: 
     notes: 
     image: 
+
+
+  - title: Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images
+    authors: <strong>K. Huang<strong>, N. Li, J. Huang, C. Tian
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, 2024.
+    pdf: 
+    code:
+    page: 
+    bibtex: 
+    notes: 
+    image: 
