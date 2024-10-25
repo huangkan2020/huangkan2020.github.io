@@ -31,3 +31,17 @@ main:
     bibtex: 
     notes: 
     image: 
+
+  - title: DenseReg: Point Cloud Registration Based on Dense Feature Refinement
+    authors: L. Luo, N. Li, <strong>Kan Huang*</strong> (*Corresponding authors)
+    conference_short: CVGIP
+    conference: International Conference on Computer Vision, Graphics, and Image Processing, 2024. (Oral)
+    pdf: 
+    code:
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+
+
+    
