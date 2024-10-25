@@ -9,6 +9,7 @@ Kan Huang is currently a Lecturer in School of Information Engineering at Shangh
 ## Research Interests
 
 - **Pattern Recognition and Computer Vision**
+- **Remote Sensing Image Analysis**
 - **Saliency Detection**
 - **3D vision**
 - **Maritime Vision**
