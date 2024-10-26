@@ -21,7 +21,7 @@ Kan Huang is currently a Lecturer in School of Information Engineering at Shangh
 - **[March. 2024]** One paper has been accepted by IEEE Trans. on Geoscience and Remote Sensing.
 - **[Jan. 2024]** One paper has been accepted by CVGIP 2024.
 - **[June. 2023]** One paper has been accepted by International Journal of Remote Sensing.
-- **[Jan. 2024]** One paper has been accepted by Multimedia Tools and Applications.
+- **[Apr. 2023]** One paper has been accepted by Multimedia Tools and Applications.
 
 {% include_relative _includes/publications.md %}
 
