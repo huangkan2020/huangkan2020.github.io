@@ -16,6 +16,7 @@ Kan Huang is currently a Associate Professor (副教授) in School of Informatio
 
 ## News
 
+- **[Nov. 2024]** One paper has been accepted by IEEE Trans. on Geoscience and Remote Sensing.
 - **[Oct. 2024]** One paper has been accepted by IEEE Geosciece and Remote Sensing Letters.
 - **[June. 2024]** One paper has been accepted by Applied Intelligence.
 - **[March. 2024]** One paper has been accepted by IEEE Trans. on Geoscience and Remote Sensing.
