@@ -1,5 +1,15 @@
 main:
 
+ - title: Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images
+    authors: <strong>Kan Huang*</strong>, L. Fang, C. Tian
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, 2024.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+    notes: Early Access
+    
   - title: Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images
     authors: J. Huang, <strong>Kan Huang*</strong> (*Corresponding authors)
     conference_short: GRSL
@@ -8,7 +18,7 @@ main:
     code: 
     bibtex: 
     image: 
-    notes: Early Access
+    notes: 
 
   - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
     authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao (*Corresponding authors)
