@@ -5,7 +5,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Neural Network and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Geoscience and Remote Sensing Letters (TRGS)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Geoscience and Remote Sensing Letters (TGRS)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Fuzzy Systems (TFS)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Cybernetics (TYCB)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Consumer Electronics (TCE)</autocolor></a></li>
