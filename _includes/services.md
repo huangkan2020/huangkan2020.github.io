@@ -16,6 +16,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Signal Processing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>CAAI Transactions on Intelligence Technology</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Remote Sensing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Multimedia Information Retrieval</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Advances in Space Research</autocolor></a></li>
