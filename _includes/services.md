@@ -18,6 +18,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>CAAI Transactions on Intelligence Technology</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Remote Sensing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Multimedia Information Retrieval</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Advances in Space Research</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Image and Vision Computing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Access</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>The visual computer</autocolor></a></li>
