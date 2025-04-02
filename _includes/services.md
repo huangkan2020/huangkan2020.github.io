@@ -19,6 +19,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Remote Sensing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Multimedia Information Retrieval</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Advances in Space Research</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Image and Vision Computing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Access</autocolor></a></li>
