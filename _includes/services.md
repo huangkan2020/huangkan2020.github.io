@@ -24,6 +24,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Image and Vision Computing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Access</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>The visual computer</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Machine Learning and Cybernetics</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Signal, Image and Video Processing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Sensors</autocolor></a></li>
