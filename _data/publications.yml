@@ -3,7 +3,7 @@ main:
   - title: Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images
     authors: <strong>Kan Huang</strong>, L. Fang, C. Tian
     conference_short: 
-    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF 7.5)
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF: 7.5)
     pdf: 
     code: 
     bibtex: 
@@ -13,7 +13,7 @@ main:
   - title: Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images
     authors: J. Huang, <strong>Kan Huang*</strong> (*Corresponding authors)
     conference_short: GRSL
-    conference: IEEE Geoscience and Remote Sensing Letters <strong>(GRSL)</strong>, 2024. (IF 4.0)
+    conference: IEEE Geoscience and Remote Sensing Letters <strong>(GRSL)</strong>, 2024. (IF: 4.0)
     pdf: 
     code: 
     bibtex: 
@@ -23,7 +23,7 @@ main:
   - title: Integrating pseudo labeling with contrastive clustering for transformer-based semi-supervised action recognition
     authors: N. Li, <strong>Kan Huang*</strong>, Q. Wu, Y. Zhao (*Corresponding authors)
     conference_short: Applied Intelligence
-    conference: Applied Intelligence, 2024. (IF 3.4)
+    conference: Applied Intelligence, 2024. (IF: 3.4)
     pdf: 
     code:
     page: 
@@ -34,7 +34,7 @@ main:
   - title: Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images
     authors: <strong>Kan Huang</strong>, N. Li, J. Huang, C. Tian
     conference_short: TGRS
-    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF 7.5)
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF: 7.5)
     pdf: 
     code:
     page: 
