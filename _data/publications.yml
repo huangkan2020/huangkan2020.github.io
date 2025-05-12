@@ -3,7 +3,7 @@ main:
   - title: Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images
     authors: <strong>Kan Huang</strong>, L. Fang, C. Tian
     conference_short: 
-    conference: IEEE Transactions on Geoscience and Remote Sensing, 2024. (IF 7.5)
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF 7.5)
     pdf: 
     code: 
     bibtex: 
@@ -34,7 +34,7 @@ main:
   - title: Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images
     authors: <strong>Kan Huang</strong>, N. Li, J. Huang, C. Tian
     conference_short: TGRS
-    conference: IEEE Transactions on Geoscience and Remote Sensing, 2024. (IF 7.5)
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024. (IF 7.5)
     pdf: 
     code:
     page: 
