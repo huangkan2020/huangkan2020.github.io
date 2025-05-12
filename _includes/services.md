@@ -15,6 +15,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Information Fusion</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Pattern Recognition Letters (PRL)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Geoscience and Remote Sensing Letters (GRSL)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Remote Sensing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Signal Processing</autocolor></a></li>
