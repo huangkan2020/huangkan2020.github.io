@@ -21,6 +21,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Signal Processing</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>CAAI Transactions on Intelligence Technology</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Multimedia Information Retrieval</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Sensor Journal</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Advances in Space Research</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Image and Vision Computing</autocolor></a></li>
