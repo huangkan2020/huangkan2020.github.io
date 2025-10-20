@@ -6,11 +6,14 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Neural Network and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Geoscience and Remote Sensing Letters (TGRS)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Fuzzy Systems (TFS)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Cybernetics (TYCB)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Transactions on Consumer Electronics (TCE)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Applied Earth Observation and Geoinformation</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Expert Systems with Applications</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>IEEE Internet of Things Journal</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>Ocean Engineering</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Information Fusion</autocolor></a></li>
